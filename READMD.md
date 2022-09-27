@@ -1,0 +1,1 @@
+https://www.st.com/en/microcontrollers-microprocessors/stm32l051k8.html
