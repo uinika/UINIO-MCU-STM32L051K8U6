@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*%
-%TF.CreationDate,2022-09-30T17:02:32+08:00*%
+%TF.CreationDate,2022-09-30T18:15:50+08:00*%
 %TF.ProjectId,UINIO-EVB-STM32L051K8,55494e49-4f2d-4455-9642-2d53544d3332,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L2,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-09-30 17:02:32*
+G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-09-30 18:15:50*
 %MOMM*%
 %LPD*%
 G01*
@@ -30,10 +30,10 @@ G04 Aperture macros list*
 20,1,$1+$1,$8,$9,$2,$3,0*%
 G04 Aperture macros list end*
 %TA.AperFunction,ComponentPad*%
-%ADD10R,1.700000X1.700000*%
+%ADD10O,1.700000X1.700000*%
 %TD*%
 %TA.AperFunction,ComponentPad*%
-%ADD11O,1.700000X1.700000*%
+%ADD11R,1.700000X1.700000*%
 %TD*%
 %TA.AperFunction,ComponentPad*%
 %ADD12O,1.000000X2.100000*%
@@ -70,19 +70,19 @@ G04 Aperture macros list end*
 %TD*%
 G04 APERTURE END LIST*
 D10*
-%TO.P,J3,1,Pin_1*%
-%TO.N,/PA13{slash}SWDIO*%
-X158740000Y-129540000D03*
-D11*
-%TO.P,J3,2,Pin_2*%
-%TO.N,GND*%
-X156200000Y-129540000D03*
-%TO.P,J3,3,Pin_3*%
-%TO.N,/PA14{slash}SWCLK*%
-X153660000Y-129540000D03*
 %TO.P,J3,4,Pin_4*%
 %TO.N,/VDD_3.3V*%
 X151120000Y-129540000D03*
+%TO.P,J3,3,Pin_3*%
+%TO.N,/PA14{slash}SWCLK*%
+X153660000Y-129540000D03*
+%TO.P,J3,2,Pin_2*%
+%TO.N,GND*%
+X156200000Y-129540000D03*
+D11*
+%TO.P,J3,1,Pin_1*%
+%TO.N,/PA13{slash}SWDIO*%
+X158740000Y-129540000D03*
 %TD*%
 D12*
 %TO.P,USB1,13,GND*%
@@ -96,11 +96,11 @@ X159325000Y-97498000D03*
 %TO.P,USB1,16,GND*%
 X150675000Y-97498000D03*
 %TD*%
-D10*
+D11*
 %TO.P,J2,1,Pin_1*%
 %TO.N,/VDD_5V*%
 X170400000Y-96500000D03*
-D11*
+D10*
 %TO.P,J2,2,Pin_2*%
 %TO.N,GND*%
 X170400000Y-99040000D03*
@@ -174,11 +174,11 @@ X148130000Y-110050000D03*
 %TO.N,/VDD_3.3V*%
 X149090000Y-110050000D03*
 %TD*%
-D10*
+D11*
 %TO.P,J1,1,Pin_1*%
 %TO.N,/PA0*%
 X139500000Y-96500000D03*
-D11*
+D10*
 %TO.P,J1,2,Pin_2*%
 %TO.N,/PA1*%
 X139500000Y-99040000D03*
