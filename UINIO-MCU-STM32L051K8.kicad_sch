@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "UINIO-EVB-STM32L051K8")
+    (title "UINIO-MCU-STM32L051K8")
     (date "2022-09-29")
     (rev "Hank")
     (company "UinIO.com")
