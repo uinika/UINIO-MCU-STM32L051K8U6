@@ -804,7 +804,7 @@
     (property "uuid" "std:b7acd529d33a47cc95d24e0d290fc457")
     (path "/70c75074-1687-4385-b562-dfca392e58fe")
     (attr through_hole)
-    (fp_text reference "USB1" (at -1.85 -3.84 90) (layer "F.SilkS")
+    (fp_text reference "USB1" (at -1.24 -3.92 90) (layer "F.SilkS")
       (effects (font (size 0.6 0.6) (thickness 0.1)) (justify right))
       (tstamp cfe49d20-befb-41a8-8361-748ac4c4a33a)
     )
