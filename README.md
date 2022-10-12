@@ -1,6 +1,6 @@
 # UINIO-MCU-STM32L051K8 开发板
 
-基于 [**意法半导体 STM32L051K8**](https://www.st.com/en/microcontrollers-microprocessors/stm32l051k8.html) 微控制器的开发板设计。
+一款基于 [**意法半导体 STM32L051K8**](https://www.st.com/en/microcontrollers-microprocessors/stm32l051k8.html) 微控制器的开发板设计。
 
 ![](./Images/PCB-3D-1.png)
 
