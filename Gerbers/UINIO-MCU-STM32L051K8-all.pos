@@ -1,32 +1,36 @@
-### Module positions - created on Sat Oct  8 18:55:16 2022 ###
-### Printed by Pcbnew version (6.0.7)
+### Module positions - created on Wed Oct 12 15:52:50 2022 ###
+### Printed by Pcbnew version (6.0.8)
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val              Package                                 PosX       PosY       Rot  Side
-C3        0.1uF            C_0402_1005Metric                  -156.5200   -95.7700  180.0000  bottom
-J1        Conn_01x14_Male  PinHeader_1x14_P2.54mm_Vertical    -147.7700   -93.6900  180.0000  bottom
-J2        Conn_01x14_Male  PinHeader_1x14_P2.54mm_Vertical    -165.4800   -93.7200  180.0000  bottom
-U2        W25Q128JVSSIQ    SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL    -156.5500   -99.3500  -90.0000  bottom
-C1        1uF              C_0402_1005Metric                   149.2400   -86.3700    0.0000  top
-C2        1uF              C_0402_1005Metric                   149.2400   -91.3200    0.0000  top
-C4        0.1uF            C_0402_1005Metric                   151.9686  -115.9429   90.0000  top
-C5        0.1uF            C_0402_1005Metric                   155.4900  -103.4300  -90.0000  top
-C6        1uF              C_0402_1005Metric                   156.0600  -110.6500  -90.0000  top
-C7        0.1uF            C_0402_1005Metric                   161.2286  -115.9329   90.0000  top
-C8        0.1uF            C_0402_1005Metric                   155.1400  -110.6500  -90.0000  top
-C9        0.1uF            C_0402_1005Metric                   157.6200  -103.4400   90.0000  top
-C10       8pF              C_0402_1005Metric                   160.5000  -106.8100    0.0000  top
-C11       8pF              C_0402_1005Metric                   158.6800  -106.8100  180.0000  top
-D1        LED              LED_0603_1608Metric                 165.4900   -89.4550   90.0000  top
-F1        Polyfuse         Fuse_1206_3216Metric                163.2400   -89.3000  -90.0000  top
-J3        Conn_01x04_Male  PinHeader_1x04_P2.54mm_Vertical     160.4600  -129.3100  -90.0000  top
-R1        1K               R_0402_1005Metric                   165.4700   -87.5000  180.0000  top
-R2        10K              R_0402_1005Metric                   155.5300   -96.2300  -90.0000  top
-R3        R                R_0402_1005Metric                   157.6100   -96.2400  -90.0000  top
-SW1       SW_Push          SW-SMD_L6.0-W3.3-LS8.0-1            153.2000   -99.8500  -90.0000  top
-SW2       SW_Push          SW-SMD_L6.0-W3.3-LS8.0-1            159.9600   -99.8700  -90.0000  top
-U1        ME6211C33M5G-N   SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR   148.7560   -88.8420   90.0000  top
-U3        STM32L051K8U6    UFQFPN-32_L5.0-W5.0-P0.50-BL-EP     156.5413  -115.9429  135.0000  top
-USB1      USB_Type_C_6Pin  USB-TYPEC-250-BRP6L68               156.6400   -87.8700  180.0000  top
-Y1        Crystal_GND24    Crystal_SMD_3225-4Pin_3.2x2.5mm     159.5500  -109.4900  -90.0000  top
+C3        0.1uF            C_0402_1005Metric                  -141.8800   -99.8500  -90.0000  bottom
+J1        Conn_01x14_Male  PinHeader_1x14_P2.54mm_Vertical    -139.8000  -108.6000  -90.0000  bottom
+J2        Conn_01x14_Male  PinHeader_1x14_P2.54mm_Vertical    -139.8300   -90.8900  -90.0000  bottom
+U2        W25Q128JVSSIQ    SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL    -145.4600   -99.8200    0.0000  bottom
+C1        1uF              C_0402_1005Metric                   132.4800  -107.1300   90.0000  top
+C2        1uF              C_0402_1005Metric                   137.4300  -107.1300   90.0000  top
+C4        0.1uF            C_0402_1005Metric                   162.0529  -104.4014  180.0000  top
+C5        0.1uF            C_0402_1005Metric                   149.5400  -100.8800    0.0000  top
+C6        1uF              C_0402_1005Metric                   156.7600  -100.3100    0.0000  top
+C7        0.1uF            C_0402_1005Metric                   162.0429   -95.1414  180.0000  top
+C8        0.1uF            C_0402_1005Metric                   156.7600  -101.2300    0.0000  top
+C9        0.1uF            C_0402_1005Metric                   149.5500   -98.7500  180.0000  top
+C10       8pF              C_0402_1005Metric                   152.9200   -95.8700   90.0000  top
+C11       8pF              C_0402_1005Metric                   152.9200   -97.6900  -90.0000  top
+D1        LED              LED_0603_1608Metric                 135.5650   -90.8800  180.0000  top
+F1        Polyfuse         Fuse_1206_3216Metric                135.4100   -93.1300    0.0000  top
+HOLE1     Hole-1mm         Hole-1mm                            130.6500   -92.1400    0.0000  top
+HOLE2     Hole-1mm         Hole-1mm                            130.6100  -107.2700    0.0000  top
+HOLE3     Hole-1mm         Hole-1mm                            175.6200   -91.9600    0.0000  top
+HOLE4     Hole-1mm         Hole-1mm                            175.5900  -107.5000    0.0000  top
+J3        Conn_01x04_Male  PinHeader_1x04_P2.54mm_Vertical     175.4200   -95.9100    0.0000  top
+R1        1K               R_0402_1005Metric                   133.6100   -90.9000  -90.0000  top
+R2        10K              R_0402_1005Metric                   142.3400  -100.8400    0.0000  top
+R3        R                R_0402_1005Metric                   142.3500   -98.7600    0.0000  top
+SW1       SW_Push          SW-SMD_L6.0-W3.3-LS8.0-1            145.9600  -103.1700    0.0000  top
+SW2       SW_Push          SW-SMD_L6.0-W3.3-LS8.0-1            145.9800   -96.4100    0.0000  top
+U1        ME6211C33M5G-N   SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR   134.9520  -107.6140  180.0000  top
+U3        STM32L051K8U6    UFQFPN-32_L5.0-W5.0-P0.50-BL-EP     162.0529   -99.8287  -135.0000  top
+USB1      USB_Type_C_6Pin  USB-TYPEC-250-BRP6L68               133.9800   -99.7300  -90.0000  top
+Y1        Crystal_GND24    Crystal_SMD_3225-4Pin_3.2x2.5mm     155.6000   -96.8200    0.0000  top
 ## End
