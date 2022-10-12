@@ -2544,19 +2544,19 @@
     (attr through_hole)
     (fp_text reference "HOLE2" (at 0 -2 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4f55bcc1-33c7-4356-ad7b-a1d662df8acb)
+      (tstamp 9cc65978-ad4d-48b4-8096-dce0342bb3b0)
     )
     (fp_text value "Hole-1mm" (at 0 2 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp bc082c5c-8858-4efd-ab94-f424eea13c40)
+      (tstamp faa24226-671a-412b-bb00-facb5b9edf11)
     )
     (fp_text user "${REFERENCE}" (at 0 4 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e1cc71c3-f29a-4dc7-87fb-e317f325e2f8)
+      (tstamp 7c407fb9-9244-45ec-a47c-df45b5efcb45)
     )
-    (fp_circle (center 0 0) (end 0.9 0) (layer "B.SilkS") (width 0.1) (fill none) (tstamp 27fb3c84-5ba9-49f3-89bc-6595f63b3625))
-    (fp_circle (center 0 0) (end 0.9 0) (layer "F.SilkS") (width 0.1) (fill none) (tstamp 8cd0c6e1-f7d0-44b2-a80a-48f6ba2501fb))
-    (pad "" thru_hole circle (at 0 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 8cd51dcc-5385-4338-aed6-f9c0d4305f3b))
+    (fp_circle (center 0 0) (end 0.9 0) (layer "B.SilkS") (width 0.1) (fill none) (tstamp e8ef0e4e-7b7d-4e54-a101-f938b5d1b07c))
+    (fp_circle (center 0 0) (end 0.9 0) (layer "F.SilkS") (width 0.1) (fill none) (tstamp d434f46a-dcc4-42f3-86ff-37fb12455ee8))
+    (pad "" thru_hole circle (at 0 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 7efa371a-c8f0-4311-a90e-27a2df31c3e3))
   )
 
   (footprint "Uinio:Hole-1mm" (layer "F.Cu")
@@ -2565,19 +2565,19 @@
     (attr through_hole)
     (fp_text reference "HOLE4" (at 0 -2 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4f55bcc1-33c7-4356-ad7b-a1d662df8acb)
+      (tstamp 7d05a862-8841-4460-85ac-48c847917889)
     )
     (fp_text value "Hole-1mm" (at 0 2 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp bc082c5c-8858-4efd-ab94-f424eea13c40)
+      (tstamp 82bb2942-9b87-4a07-b3af-4a9e54f65147)
     )
     (fp_text user "${REFERENCE}" (at 0 4 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e1cc71c3-f29a-4dc7-87fb-e317f325e2f8)
+      (tstamp 7d10b549-d6c4-48db-8000-e13bf9e3ec41)
     )
-    (fp_circle (center 0 0) (end 0.9 0) (layer "B.SilkS") (width 0.1) (fill none) (tstamp 27fb3c84-5ba9-49f3-89bc-6595f63b3625))
-    (fp_circle (center 0 0) (end 0.9 0) (layer "F.SilkS") (width 0.1) (fill none) (tstamp 8cd0c6e1-f7d0-44b2-a80a-48f6ba2501fb))
-    (pad "" thru_hole circle (at 0 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 8cd51dcc-5385-4338-aed6-f9c0d4305f3b))
+    (fp_circle (center 0 0) (end 0.9 0) (layer "B.SilkS") (width 0.1) (fill none) (tstamp cc309fcb-6233-4740-a5f0-8320325c2543))
+    (fp_circle (center 0 0) (end 0.9 0) (layer "F.SilkS") (width 0.1) (fill none) (tstamp 9af9b54d-f2ef-4348-b1b1-a59713ca5375))
+    (pad "" thru_hole circle (at 0 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 65c682d2-011b-43e8-bf3e-c77c7ee53281))
   )
 
   (footprint "Uinio:SW-SMD_L6.0-W3.3-LS8.0-1" (layer "F.Cu")
@@ -2909,19 +2909,19 @@
     (attr through_hole)
     (fp_text reference "HOLE3" (at 0 -2 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 4f55bcc1-33c7-4356-ad7b-a1d662df8acb)
+      (tstamp fd4e754f-a88b-4459-bfd9-d0b00c502b48)
     )
     (fp_text value "Hole-1mm" (at 0 2 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp bc082c5c-8858-4efd-ab94-f424eea13c40)
+      (tstamp bb53a59e-aff8-4f13-9f41-ab9c2c3f744a)
     )
     (fp_text user "${REFERENCE}" (at 0 4 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp e1cc71c3-f29a-4dc7-87fb-e317f325e2f8)
+      (tstamp c23f7856-c5de-45bf-a133-3cba1586f782)
     )
-    (fp_circle (center 0 0) (end 0.9 0) (layer "B.SilkS") (width 0.1) (fill none) (tstamp 27fb3c84-5ba9-49f3-89bc-6595f63b3625))
-    (fp_circle (center 0 0) (end 0.9 0) (layer "F.SilkS") (width 0.1) (fill none) (tstamp 8cd0c6e1-f7d0-44b2-a80a-48f6ba2501fb))
-    (pad "" thru_hole circle (at 0 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 8cd51dcc-5385-4338-aed6-f9c0d4305f3b))
+    (fp_circle (center 0 0) (end 0.9 0) (layer "B.SilkS") (width 0.1) (fill none) (tstamp 7a68c156-a3e7-4441-9ed3-689c5fd497d2))
+    (fp_circle (center 0 0) (end 0.9 0) (layer "F.SilkS") (width 0.1) (fill none) (tstamp e19dff1a-0424-47fc-9028-38ba121b1f1e))
+    (pad "" thru_hole circle (at 0 0) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 67d44cee-ef38-4e9f-afc4-f41dbfd5714a))
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
