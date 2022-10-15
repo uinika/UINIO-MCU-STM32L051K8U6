@@ -2334,7 +2334,7 @@
     (in_bom yes) (on_board yes)
     (uuid 04927899-643a-465f-a90f-2fe0fcac3f7d)
     (property "Reference" "C10" (id 0) (at 261.874 64.008 90))
-    (property "Value" "8pF" (id 1) (at 261.874 60.452 90))
+    (property "Value" "22pF" (id 1) (at 262.89 60.325 90))
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 255.27 61.2648 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2382,7 +2382,7 @@
     (in_bom yes) (on_board yes)
     (uuid 0b035f2d-2743-477a-82f5-d45d1e5e79ee)
     (property "Reference" "Y1" (id 0) (at 242.57 59.69 90))
-    (property "Value" "Crystal_GND24" (id 1) (at 242.57 72.39 90))
+    (property "Value" "12MHz" (id 1) (at 242.57 72.39 90))
     (property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" (id 2) (at 242.57 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2618,7 +2618,7 @@
     (in_bom yes) (on_board yes)
     (uuid 4fa74506-c2c7-4363-ba60-ed462593bd01)
     (property "Reference" "C11" (id 0) (at 261.874 71.628 90))
-    (property "Value" "8pF" (id 1) (at 261.874 68.072 90))
+    (property "Value" "22pF" (id 1) (at 262.89 67.945 90))
     (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 255.27 68.8848 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3348,10 +3348,10 @@
       (reference "C9") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/04927899-643a-465f-a90f-2fe0fcac3f7d"
-      (reference "C10") (unit 1) (value "8pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C10") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/4fa74506-c2c7-4363-ba60-ed462593bd01"
-      (reference "C11") (unit 1) (value "8pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (reference "C11") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/247e2303-24d7-4ed1-8e48-01c05cb88b4f"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
@@ -3396,7 +3396,7 @@
       (reference "USB1") (unit 1) (value "USB_Type_C_6Pin") (footprint "Uinio:USB-TYPEC-250-BRP6L68")
     )
     (path "/0b035f2d-2743-477a-82f5-d45d1e5e79ee"
-      (reference "Y1") (unit 1) (value "Crystal_GND24") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
+      (reference "Y1") (unit 1) (value "12MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
     )
   )
 )
