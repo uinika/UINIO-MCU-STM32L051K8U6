@@ -1,4 +1,4 @@
-20572059313653639
+20573725178028057
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85520,6 +85520,13 @@ ANT-SMD_L5.0-W2.0
 2
 Uinio
 CAP_0402
+
+
+0
+2
+2
+Uinio
+CRYSTAL-FC135-32.768
 
 
 0
