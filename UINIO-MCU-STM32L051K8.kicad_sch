@@ -2308,7 +2308,7 @@
     (in_bom yes) (on_board yes)
     (uuid 0dc4dc38-298e-43a4-a369-891beafa0569)
     (property "Reference" "R3" (id 0) (at 238.76 80.01 90))
-    (property "Value" "R" (id 1) (at 238.76 82.55 90))
+    (property "Value" "10K" (id 1) (at 238.76 82.55 90))
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (id 2) (at 238.76 80.772 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3267,7 +3267,7 @@
       (reference "R2") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/0dc4dc38-298e-43a4-a369-891beafa0569"
-      (reference "R3") (unit 1) (value "R") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R3") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/a26fb178-aeb6-4dfd-8d0f-683b1e6bca57"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Uinio:SW-SMD_L6.0-W3.3-LS8.0-1")
