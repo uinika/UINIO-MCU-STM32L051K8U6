@@ -1,4 +1,4 @@
-### Module positions - created on Wed Jan 11 19:54:38 2023 ###
+### Module positions - created on Wed Jan 11 23:50:48 2023 ###
 ### Printed by Pcbnew version (6.0.10)
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -31,6 +31,6 @@ SW1       SW_Push          SW-SMD_L6.0-W3.3-LS8.0-1            159.8500   -96.33
 SW2       SW_Push          SW-SMD_L6.0-W3.3-LS8.0-1            159.8300  -103.0900  180.0000  top
 U1        ME6211           SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR   170.7000   -91.8800    0.0000  top
 U3        STM32L051K8U6    UFQFPN-32_L5.0-W5.0-P0.50-BL-EP     143.7571   -99.6713   45.0000  top
-USB1      USB_Type_C_6Pin  USB-TYPEC-250-BRP6L68               171.9600   -99.7600   90.0000  top
+USB1      USB_Type_C_6Pin  USB-TYPEC-250-BRP6L68               172.6600   -99.7300   90.0000  top
 Y1        FC135-32.768     CRYSTAL-FC135-32.768                149.1400  -103.1200  -90.0000  top
 ## End
