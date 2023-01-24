@@ -2624,7 +2624,7 @@
     (property "Value" "1uF" (id 1) (at 48.26 35.56 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "Uinio:CAP_0402" (id 2) (at 50.8 36.83 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 50.8 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 50.8 36.83 0)
@@ -2868,7 +2868,7 @@
     (property "Value" "1uF" (id 1) (at 83.82 35.56 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "Uinio:CAP_0402" (id 2) (at 86.36 36.83 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 86.36 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 86.36 36.83 0)
@@ -3232,10 +3232,10 @@
       (reference "#PWR021") (unit 1) (value "GND") (footprint "")
     )
     (path "/60560b20-5278-4de9-a5e2-fed3a53f08b4"
-      (reference "C1") (unit 1) (value "1uF") (footprint "Uinio:CAP_0402")
+      (reference "C1") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/b5fedec1-4dc3-434f-a196-1e35f26eed3c"
-      (reference "C2") (unit 1) (value "1uF") (footprint "Uinio:CAP_0402")
+      (reference "C2") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/450e9fbe-b5fb-4a9a-bff0-f14f6373f59c"
       (reference "C3") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
