@@ -1,11 +1,11 @@
-### Footprint positions - created on Tue Jul  4 14:52:44 2023 ###
+### Footprint positions - created on Tue Jul  4 16:10:56 2023 ###
 ### Printed by KiCad version 7.0.5
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val                   Package                                 PosX       PosY       Rot  Side
 C3        0.1uF                 C_0402_1005Metric                   -31.9100   -10.1500  -90.0000  bottom
-J1        Conn_01x14_Pin        PinHeader_1x14_P2.54mm_Vertical     -34.3500   -19.0400  -90.0000  bottom
-J2        Conn_01x14_Pin        PinHeader_1x14_P2.54mm_Vertical     -34.3400    -1.4200  -90.0000  bottom
+J1        Conn_01x14_Pin        PinHeader_1x14_P2.54mm_Vertical     -34.3500   -18.9600  -90.0000  bottom
+J2        Conn_01x14_Pin        PinHeader_1x14_P2.54mm_Vertical     -34.3500    -1.3400  -90.0000  bottom
 U2        W25Q128JVSSIQ         SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL     -28.6700   -10.1500    0.0000  bottom
 C1        1uF                   C_0402_1005Metric                   -41.4500   -17.5600   90.0000  top
 C2        1uF                   C_0402_1005Metric                   -36.6600   -17.5600   90.0000  top
