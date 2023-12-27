@@ -1,6 +1,6 @@
-# UINIO-MCU-STM32L051K8 核心板
+# UINIO-MCU-STM32L051K8U6 核心板
 
-[**UINIO-MCU-STM32L051K8**](https://github.com/uinika/UINIO-MCU-STM32L051K8) 是一款基于**意法半导体** [STM32L051K8](https://www.st.com/en/microcontrollers-microprocessors/stm32l051k8.html) 系列低功耗微控制器的核心板电路设计，该款主控芯片采用 **LQFP32** 封装，片上内置有 `64 Kbytes` 的 **Flash** 存储器，以及 `8 Kbytes` 的 **RAM** 存储器。
+[**UINIO-MCU-STM32L051K8U6**](https://github.com/uinika/UINIO-MCU-STM32L051K8U6) 是一款基于**意法半导体** [STM32L051K8](https://www.st.com/en/microcontrollers-microprocessors/stm32l051k8.html) 系列低功耗微控制器的核心板电路设计，该款主控芯片采用 **LQFP32** 封装，片上内置有 `64 Kbytes` 的 **Flash** 存储器，以及 `8 Kbytes` 的 **RAM** 存储器。
 
 ![](./Images/PCB-3D-1.png)
 

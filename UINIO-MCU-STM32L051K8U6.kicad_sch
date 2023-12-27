@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (title "UINIO-MCU-STM32L051K8")
-    (date "2023-07-03")
+    (title "UINIO-MCU-STM32L051K8U6")
+    (date "2023-12-27")
     (rev "Version 3.3.0")
     (company "电子技术博客 UinIO.com")
   )
@@ -2506,7 +2506,7 @@
     (pin "1" (uuid 90c8fa32-6141-4494-af7f-59e08bdfea23))
     (pin "2" (uuid 6d5c465d-c15d-4f11-8cb6-9f5309d6ff73))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "C7") (unit 1)
         )
@@ -2532,7 +2532,7 @@
     (pin "1" (uuid acda829e-a219-4f01-927c-010b009a28b6))
     (pin "2" (uuid f14a0b9e-06ad-4d3c-b3f1-8dbed7528263))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "C10") (unit 1)
         )
@@ -2558,7 +2558,7 @@
     (pin "1" (uuid 0e03d049-5a84-461f-bd75-19b65089ac8d))
     (pin "2" (uuid de485890-a772-459d-b25b-b249073218fe))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "R2") (unit 1)
         )
@@ -2583,7 +2583,7 @@
     )
     (pin "1" (uuid f0fdca3b-3a03-44be-893b-187720715aca))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR07") (unit 1)
         )
@@ -2615,7 +2615,7 @@
     (pin "1" (uuid bfd5f528-cfee-47e9-aca7-7a3fc4087396))
     (pin "2" (uuid 99f631e4-77ff-4d2a-bf5d-fec902b345c8))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "Y1") (unit 1)
         )
@@ -2641,7 +2641,7 @@
     (pin "1" (uuid 55ad1b8f-e2c9-4710-8fe0-1059162c811b))
     (pin "2" (uuid ed6c56aa-eee9-4ef5-8122-1b51128b66cc))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "R3") (unit 1)
         )
@@ -2666,7 +2666,7 @@
     )
     (pin "1" (uuid 61776532-51c6-4aab-9e4e-024fe454a9f6))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR05") (unit 1)
         )
@@ -2692,7 +2692,7 @@
     (pin "1" (uuid dfe8c5a1-325d-4c84-9908-d8dace518436))
     (pin "2" (uuid e1d0e11b-7e40-44c2-afc3-6b12d42a1212))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "D1") (unit 1)
         )
@@ -2717,7 +2717,7 @@
     )
     (pin "1" (uuid 46173346-b2fa-4962-ae75-26dc503dcfd7))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR01") (unit 1)
         )
@@ -2751,7 +2751,7 @@
     (pin "3" (uuid 0f430f10-939d-403b-88ff-de7bb66d06fb))
     (pin "4" (uuid 8a66f5aa-56e3-4a33-b564-a79a0098b3e7))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "SW2") (unit 1)
         )
@@ -2776,7 +2776,7 @@
     )
     (pin "1" (uuid 80f29974-46de-4525-bb59-1d862d2fd6fb))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR019") (unit 1)
         )
@@ -2802,7 +2802,7 @@
     (pin "1" (uuid 857972c6-086d-4387-82b6-4df0c58529b4))
     (pin "2" (uuid 17a5d426-2284-44b2-9bc0-11d743217393))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "C5") (unit 1)
         )
@@ -2840,7 +2840,7 @@
     (pin "8" (uuid 6ff5dd01-28f4-41e9-9a59-3e8ccdc979b0))
     (pin "9" (uuid 8376f587-a8d8-4346-b0cf-b477b6551355))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "J1") (unit 1)
         )
@@ -2865,7 +2865,7 @@
     )
     (pin "1" (uuid 099de1ce-c543-43d8-abb0-10051c838eb5))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR016") (unit 1)
         )
@@ -2891,7 +2891,7 @@
     (pin "1" (uuid 0a4170f7-550e-4111-8483-22f2acc3436a))
     (pin "2" (uuid a4af8cb4-2f94-4f2b-ba8e-5daff36c047d))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "C4") (unit 1)
         )
@@ -2916,7 +2916,7 @@
     )
     (pin "1" (uuid 98b090f2-333d-452c-bb05-e6711493064c))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR03") (unit 1)
         )
@@ -2941,7 +2941,7 @@
     )
     (pin "1" (uuid 27beead7-7286-438e-86ca-77052cd9ace8))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR02") (unit 1)
         )
@@ -2967,7 +2967,7 @@
     (pin "1" (uuid d93136a2-81e7-4dc6-a820-8cf7c15fc7f2))
     (pin "2" (uuid 88938333-1618-4394-aff3-5c1aeccee398))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "C3") (unit 1)
         )
@@ -2993,7 +2993,7 @@
     (pin "1" (uuid 2f1ee1b5-84e7-4094-b53b-f3eb6706861e))
     (pin "2" (uuid ac9da601-2ab7-4d88-9135-e1c7248c8145))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "R1") (unit 1)
         )
@@ -3019,7 +3019,7 @@
     (pin "1" (uuid 13b24e49-771b-4a2f-98ff-7abc307c82a5))
     (pin "2" (uuid 9d9a78ac-1c59-4832-bdca-e6fd9fe76fad))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "C11") (unit 1)
         )
@@ -3044,7 +3044,7 @@
     )
     (pin "1" (uuid 0dfa0a13-a732-4160-a1e2-048b6590afe4))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR017") (unit 1)
         )
@@ -3070,7 +3070,7 @@
     (pin "1" (uuid 354927c3-218b-45df-861a-4c9f5fe895e7))
     (pin "2" (uuid 98152aa3-1fe9-4840-aa8e-17f886cb8549))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "C6") (unit 1)
         )
@@ -3108,7 +3108,7 @@
     (pin "8" (uuid bb971aae-3a20-4233-896a-fb1f86c5d471))
     (pin "9" (uuid 29dfa7f0-4d5f-41d4-92d2-4c77f00368bc))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "J2") (unit 1)
         )
@@ -3143,7 +3143,7 @@
     (pin "1" (uuid c77349ca-7839-4ab7-9478-733aafaf70e5))
     (pin "2" (uuid 32b88dfa-1439-4d00-8cf6-4532497fc494))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "C1") (unit 1)
         )
@@ -3169,7 +3169,7 @@
     (pin "1" (uuid 4419bc6f-b9a4-4e61-bd7f-7c7a21e866c5))
     (pin "2" (uuid 5526d880-900f-449c-af70-81869b5fa069))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "C9") (unit 1)
         )
@@ -3194,7 +3194,7 @@
     )
     (pin "1" (uuid 0d54eb32-374c-4679-a1d3-3c4b35a62142))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR010") (unit 1)
         )
@@ -3219,7 +3219,7 @@
     )
     (pin "1" (uuid 39fdf286-e529-406a-8c66-18bc29655df1))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR06") (unit 1)
         )
@@ -3259,7 +3259,7 @@
     (pin "B5" (uuid 02d04887-3bbb-4503-82e8-053182cfe4e8))
     (pin "B9" (uuid d2064ec3-2649-46a8-b191-2d6a8a1bcaeb))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "USB1") (unit 1)
         )
@@ -3284,7 +3284,7 @@
     )
     (pin "1" (uuid 30a132fe-9935-49df-88f0-e4596c94a6d2))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR021") (unit 1)
         )
@@ -3309,7 +3309,7 @@
     )
     (pin "1" (uuid 4be85a4c-6961-4791-81f7-18875d521fc1))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR09") (unit 1)
         )
@@ -3347,7 +3347,7 @@
     (pin "7" (uuid 3a3e19c7-13e9-4d19-afb6-6d9c60d46842))
     (pin "8" (uuid bf43f11f-c23c-401e-ae46-eda975c03b97))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "U2") (unit 1)
         )
@@ -3372,7 +3372,7 @@
     )
     (pin "1" (uuid 98302957-c4dc-4a61-ae6c-af8941a3736c))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#FLG02") (unit 1)
         )
@@ -3407,7 +3407,7 @@
     (pin "1" (uuid 7ece28c2-72a1-4e64-8910-43a346cfea86))
     (pin "2" (uuid 83bb0b4c-beee-47d3-90ba-bacf3d0fd299))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "C2") (unit 1)
         )
@@ -3432,7 +3432,7 @@
     )
     (pin "" (uuid 59bffe77-849b-4734-a0ac-7a349ae7d8a4))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR04") (unit 1)
         )
@@ -3457,7 +3457,7 @@
     )
     (pin "1" (uuid 73e5600c-a22e-4f4b-8d53-35c7cfd633e6))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR08") (unit 1)
         )
@@ -3482,7 +3482,7 @@
     )
     (pin "1" (uuid 9eadc113-7635-4da6-b168-d4ceb9a9af9e))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR020") (unit 1)
         )
@@ -3507,7 +3507,7 @@
     )
     (pin "1" (uuid 307b5839-09ff-4455-bd9a-db22df7acc8c))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR012") (unit 1)
         )
@@ -3532,7 +3532,7 @@
     )
     (pin "1" (uuid d3324297-77aa-4a64-865d-30ee6c2ca4a8))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#FLG01") (unit 1)
         )
@@ -3564,7 +3564,7 @@
     (pin "4" (uuid 1a0a0370-b382-4b6b-aa79-0bbf2d4e018b))
     (pin "5" (uuid 579df21b-5b44-4007-b9cc-87c981a47df6))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "U1") (unit 1)
         )
@@ -3589,7 +3589,7 @@
     )
     (pin "1" (uuid 23353258-3761-430f-864e-f1d84fba9cd6))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR015") (unit 1)
         )
@@ -3614,7 +3614,7 @@
     )
     (pin "1" (uuid 046b04ea-9b53-4022-ba05-78ca16ca5640))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR011") (unit 1)
         )
@@ -3677,7 +3677,7 @@
     (pin "8" (uuid 3a481418-001f-4225-b4da-f5ce1f4ab0d1))
     (pin "9" (uuid 4e5cc351-5b90-4c34-aa51-a0c79d1caa02))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "U3") (unit 1)
         )
@@ -3702,7 +3702,7 @@
     )
     (pin "1" (uuid 5dbc9fe1-3fe3-43e9-a72f-d1be49b83e3c))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "#PWR013") (unit 1)
         )
@@ -3728,7 +3728,7 @@
     (pin "1" (uuid 8b620e74-cee5-4985-a312-62b8d7e52ebf))
     (pin "2" (uuid 2d3a5f48-4992-4054-b589-06c14aab6c4f))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "F1") (unit 1)
         )
@@ -3754,7 +3754,7 @@
     (pin "1" (uuid bf3cad62-52f8-455a-813c-357652454fda))
     (pin "2" (uuid 91bc874b-248b-48d3-ab95-72f19fc73613))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "C8") (unit 1)
         )
@@ -3782,7 +3782,7 @@
     (pin "3" (uuid 87710eaf-ebf8-4b00-af4e-c92d5b597443))
     (pin "4" (uuid 11336d14-b314-4229-b224-88609488c26f))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "J3") (unit 1)
         )
@@ -3816,7 +3816,7 @@
     (pin "3" (uuid 208525be-f834-45c0-9e73-be271050b129))
     (pin "4" (uuid e19eb0e1-4604-4986-8ca7-2a4d3fbbce86))
     (instances
-      (project "UINIO-MCU-STM32L051K8"
+      (project "UINIO-MCU-STM32L051K8U6"
         (path "/1313241d-3787-4381-b100-56fa7903b760"
           (reference "SW1") (unit 1)
         )
