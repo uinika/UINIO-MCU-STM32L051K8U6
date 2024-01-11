@@ -1,0 +1,38 @@
+### Footprint positions - created on Thu Jan 11 23:09:57 2024 ###
+### Printed by KiCad version 7.0.9
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                 PosX       PosY       Rot  Side
+C3        0.1uF                 C_0402_1005Metric                    10.3900   -10.1500  -90.0000  bottom
+J1        Conn_01x14_Pin        PinHeader_1x14_P2.54mm_Vertical       7.9500   -18.9600  -90.0000  bottom
+J2        Conn_01x14_Pin        PinHeader_1x14_P2.54mm_Vertical       7.9500    -1.3400  -90.0000  bottom
+U2        W25Q128JVSSIQ         SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL      13.6300   -10.1500    0.0000  bottom
+C1        1uF                   C_0402_1005Metric                     0.8500   -17.5600   90.0000  top
+C2        1uF                   C_0402_1005Metric                     5.6400   -17.5600   90.0000  top
+C4        0.1uF                 C_0402_1005Metric                    30.1800   -14.7700  180.0000  top
+C5        0.1uF                 C_0402_1005Metric                    17.6700   -11.3000    0.0000  top
+C6        0.1uF                 C_0402_1005Metric                    24.7800    -9.5600    0.0000  top
+C7        0.1uF                 C_0402_1005Metric                    30.1700    -5.5300  180.0000  top
+C8        1uF                   C_0402_1005Metric                    24.7800   -10.9100    0.0000  top
+C9        0.1uF                 C_0402_1005Metric                    17.6800    -9.1700  180.0000  top
+C10       6pF                   C_0402_1005Metric                    22.8100    -5.8800  -90.0000  top
+C11       6pF                   C_0402_1005Metric                    22.8100    -7.7600   90.0000  top
+D1        Red_LED               LED_0603_1608Metric                   3.6950    -1.3000  180.0000  top
+F1        Polyfuse              Fuse_1206_3216Metric                  3.5400    -3.5500    0.0000  top
+Hole1     Hole-1mm              Hole-1mm                             43.3900   -17.9800  180.0000  top
+Hole2     Hole-1mm              Hole-1mm                             43.3900    -2.3000  180.0000  top
+Hole3     Hole-1mm              Hole-1mm                             -1.1200    -2.3000  180.0000  top
+Hole4     Hole-1mm              Hole-1mm                             -1.1200   -17.9800  180.0000  top
+J3        Conn_01x04_Pin        PinHeader_1x04_P2.54mm_Vertical      43.8500   -13.9500  180.0000  top
+R1        1K                    R_0402_1005Metric                     1.7400    -1.3200   90.0000  top
+R2        10K                   R_0402_1005Metric                    10.4700   -11.2600    0.0000  top
+R3        10K                   R_0402_1005Metric                    10.4800    -9.1800    0.0000  top
+SW1       Boot选择按键
+     KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     14.1100   -13.5900    0.0000  top
+SW2       复位按键
+         KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7     14.1100    -6.8300    0.0000  top
+U1        ME6211                SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR     3.2400   -18.0400  180.0000  top
+U3        STM32L051K8U6         UFQFPN-32_L5.0-W5.0-P0.50-BL-EP      30.1829   -10.2073  -135.0000  top
+USB1      USB_Type_C_6Pin       USB-TYPEC-250-BRP6L68                 1.2800   -10.1500  -90.0000  top
+Y1        Crystal-FC135-32.768  CRYSTAL-FC135-32.768                 24.8000    -6.8000   90.0000  top
+## End
