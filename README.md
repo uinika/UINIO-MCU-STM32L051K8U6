@@ -6,6 +6,10 @@
 
 ![](./Images/PCB-3D-2.png)
 
+![](./Images/PCB-3D-3.png)
+
+![](./Images/PCB-3D-4.png)
+
 1. 采用 `16 Pin` 规格的 **USB Type-C** 接口；
 2. 已经将 **STM32L051K8** 微控制器的 **28** 个 **GPIO** 引脚资源悉数引出；
 3. 预留有 **SOIC** 封装的 **W25Q** 型 Flash 存储器焊接位置（可选）；
