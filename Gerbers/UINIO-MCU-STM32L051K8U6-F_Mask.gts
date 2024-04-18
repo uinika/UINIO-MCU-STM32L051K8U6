@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*%
-%TF.CreationDate,2024-01-31T16:13:06+08:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.11*%
+%TF.CreationDate,2024-04-18T18:09:20+08:00*%
 %TF.ProjectId,UINIO-MCU-STM32L051K8U6,55494e49-4f2d-44d4-9355-2d53544d3332,Version 3.3.1*%
 %TF.SameCoordinates,PX7aae400PY5939cc0*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.10) date 2024-01-31 16:13:06*
+G04 Created by KiCad (PCBNEW 7.0.11) date 2024-04-18 18:09:20*
 %MOMM*%
 %LPD*%
 G01*
